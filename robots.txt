@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://brainrotgames-online.github.io/sitemap.xml
